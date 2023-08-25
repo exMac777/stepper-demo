@@ -1,9 +1,9 @@
-###Install dependencies
+### Install dependencies
 ```bash
 npm install
 ```
 
-###Run project
+### Run project
 ```bash
 npm run dev
 ```
