@@ -13,3 +13,10 @@
 html {
   scroll-behavior: smooth;
 }
+
+.required::after {
+  content: '*';
+  color: rgb(253, 110, 110);
+  margin-left: 5px;
+  font-weight: bold;
+}
